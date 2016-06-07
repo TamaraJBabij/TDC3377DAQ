@@ -121,6 +121,9 @@ public:
 						channel = thisWord.channel;
 						groupnumber = iGroupNumber;
 						tree->Fill();
+						//store event in group here?
+						//where group is in dataset
+						//This will then be processed
 					}
 				}
 			}
