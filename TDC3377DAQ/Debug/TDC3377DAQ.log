@@ -1,0 +1,6 @@
+﻿  TDC3377DAQ.cpp
+c:\daq2016\tdc3377daq\tdc3377daq\readconfig.h(52): warning C4102: 'std': unreferenced label
+c:\daq2016\tdc3377daq\tdc3377daq\3377tdc.h(109): warning C4018: '<': signed/unsigned mismatch
+c:\daq2016\tdc3377daq\tdc3377daq\3377tdc.h(115): warning C4018: '<': signed/unsigned mismatch
+c:\daq2016\tdc3377daq\tdc3377daq\tdc3377daq.cpp(37): warning C4553: '==': operator has no effect; did you intend '='?
+  TDC3377DAQ.vcxproj -> C:\DAQ2016\TDC3377DAQ\Debug\TDC3377DAQ.exe
